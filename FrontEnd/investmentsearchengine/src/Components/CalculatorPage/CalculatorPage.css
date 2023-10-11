@@ -1,0 +1,143 @@
+.Calulator-body {
+  padding: 0%;
+  margin: 0px;
+  box-sizing: content-box;
+  font-family: "Roboto", sans-serif;
+}
+
+.calculator-heading {
+  width: 90%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  margin-left: 5%;
+}
+.calculator-heading h3 {
+  font-size: 50px;
+  color: #000;
+  margin-bottom: 25px;
+  margin-top: 7%;
+  position: relative;
+}
+.calculator-container {
+  width: 90%;
+  margin: 0 auto;
+  padding: 10px 20px;
+}
+
+.calculator-heading h3::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 4px;
+  display: block;
+  margin: 0 auto;
+  background-color: #0078ff;
+}
+
+.calculator-container {
+  width: 90%;
+  margin: 0 auto;
+  padding: 10px 20px;
+}
+
+.calculator-container {
+  width: 90%;
+  margin: 50px auto;
+  display: grid;
+  /* grid-template-columns: repeat(3, 1fr); */
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-gap: 35px;
+}
+
+.calculator-cards {
+  background-color: #fff;
+  box-shadow: 0px 4px 8px 0px rgba(18, 22, 19, 0.2);
+  position: relative;
+}
+
+.calculator-cards::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  box-shadow: -2px -1px 25px -4px rgba(0, 0, 0, 0.75);
+  opacity: 0;
+  z-index: 1;
+  transition: opacity 0.3s ease;
+}
+
+.calculator-cards:hover::before {
+  opacity: 1;
+}
+
+.cal-image-section {
+  height: 400px;
+  background-color: #fff;
+  margin: 5%;
+}
+
+.calculator-cards .cal-img-one {
+  background-image: url("../../Assets/Images/Calculators/lum-sum-calculator.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.calculator-cards .cal-img-two {
+  background-image: url("../../Assets/Images/Calculators/emi-calculator.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.calculator-cards .cal-img-three {
+  background-image: url("../../Assets/Images/Calculators/time-investment.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.calculators-card-content {
+  padding: 20px 10px;
+  text-align: center;
+}
+.calculators-card-content h3 {
+  font-size: 20px;
+}
+
+.calculators-card-content p {
+  margin: 20px 0px;
+  font-size: 16px;
+  color: rgb(146, 143, 139);
+  line-height: 180%;
+}
+.calculators-card-content a {
+  text-decoration: none;
+  font-size: 17px;
+  color: #fff;
+  letter-spacing: 1.5px;
+  display: inline-block;
+  background-color: #0078ff;
+  padding: 10px 15px;
+  border-radius: 10px;
+  position: relative;
+  z-index: 2;
+}
+.calculators-card-content p {
+  margin: 20px 0px;
+  font-size: 16px;
+  color: rgb(146, 143, 139);
+  line-height: 180%;
+}
+.calculators-card-content a {
+  text-decoration: none;
+  font-size: 17px;
+  color: #fff;
+  letter-spacing: 1.5px;
+  display: inline-block;
+  background-color: #0078ff;
+  padding: 10px 15px;
+  border-radius: 10px;
+}

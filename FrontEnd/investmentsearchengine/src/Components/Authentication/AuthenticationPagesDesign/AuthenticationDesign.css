@@ -1,0 +1,362 @@
+.Authentication {
+  display: grid;
+  grid-template-columns: 1.2fr 1fr;
+  height: 100vh;
+  width: 100vw;
+}
+
+.InvestmentSearchEngineMessage {
+  grid-column: 1/2;
+  position: relative;
+  border-radius: 0px 0px 350px 0px;
+  background: linear-gradient(
+    135deg,
+    rgba(0, 136, 206) 0%,
+    rgba(0, 138, 206, 0.17) 100%
+  );
+}
+
+.AuthenticationCredentials {
+  grid-column: 2/3;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 25px;
+}
+
+.AuthenticationTopImage {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 30%;
+  height: auto;
+  z-index: 1;
+}
+
+.AuthenticationBottomImage {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 30%;
+  height: auto;
+  z-index: 1;
+}
+
+.AuthenticationSignInBottomImage {
+  display: none;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 35%;
+  height: auto;
+  z-index: 1;
+}
+
+.AuthCenterMessage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+}
+
+.AuthCenterContent {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+  width: 70%;
+}
+
+.AuthQuoteContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  font-weight: 800;
+  font-size: 2rem;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: #0078ff;
+}
+
+.InvestmentSearchEngineMessage::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.5);
+  pointer-events: none;
+}
+
+.AuthQuoteTitle {
+  color: var(--textcolortext-900, #0c1116);
+  font-family: Inter;
+  font-size: 2rem;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  letter-spacing: 0.96px;
+}
+
+.AuthQuoteSubTitle {
+  color: var(--textcolortext-600, #4f5b67);
+  font-family: Inter;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 38px;
+}
+
+.KaniniLogo {
+  width: 130px;
+  height: auto;
+}
+
+.HomeNavigation{
+  position: absolute;
+  margin-top:0%;
+  right:0;
+  padding: 1rem;
+  top:0;
+  z-index: 2;
+}
+
+.Homenavigateicon{
+  font-size: 35px;
+  color: #0078ff;
+}
+
+.Homenavigateicon:hover{
+  color: #084c94;
+}
+
+
+.SignIn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 25px;
+}
+
+.SignInContext {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.SignInCredentials {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.SignUpCredentials {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.SignInLable {
+  color: var(--textcolortext-900, #0c1116);
+  font-family: Inter;
+  font-size: 1.2rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.SignInLableSubText {
+  color: var(--textcolortext-600, #4f5b67);
+  font-family: Inter;
+  font-size: 0.7rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.SigInInputLable {
+  color: var(--textcolortext-600, #4f5b67);
+  font-family: Inter;
+  font-size: 0.9rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.SigInInputField {
+  height: 30px;
+  width: 100%;
+  border-radius: 6px;
+  border: 1px solid var(--textcolortext-500, #717d8a);
+  opacity: 0.5;
+  background: var(--layoutcolorlayout-01, #fff);
+  font-size: 0.9rem;
+  padding: 5px;
+}
+
+.SignInButtonContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+}
+.SignUpButtonContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+}
+
+.SignUpLink,.SignInLink {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  cursor: pointer;
+  color: var(--textcolortext-600, #4f5b67);
+  font-family: Inter;
+  font-size: 0.8rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+#SignUpClickHere,#SignInLinkClickHere{
+  color: #0056b3;
+}
+
+
+
+.SignInButton {
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  border-radius: 50px;
+  background: #0078ff;
+  height: 30px;
+  color: #fff;
+  font-family: Inter;
+  font-size: 0.7rem;
+  font-weight: 400;
+  transition: background-color 0.3s, transform 0.2s;
+}
+.SignUpButton {
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  border-radius: 50px;
+  background: #0078ff;
+  height: 30px;
+  color: #fff;
+  font-family: Inter;
+  font-size: 0.7rem;
+  font-weight: 400;
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+.SignInButton:hover {
+  background-color: #0056b3;
+}
+
+.SignInButton:active {
+  transform: scale(0.95);
+}
+
+.password-input {
+  position: relative;
+}
+
+.PasswordVisible {
+  color: #717d8a;
+}
+
+.password-toggle {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  cursor: pointer;
+  background: none;
+  border: none;
+}
+
+@media only screen and (max-width: 768px) {
+  .Authentication {
+    grid-template-columns: 1fr;
+  }
+  .InvestmentSearchEngineMessage {
+    grid-column: 1/1;
+    height: 100%;
+    background: none;
+  }
+  .AuthenticationTopImage {
+    width: 35%;
+  }
+  .AuthenticationSignInBottomImage {
+    display: block;
+  }
+  .AuthCenterMessage {
+    display: none;
+  }
+  .AuthenticationBottomImage {
+    display: none;
+  }
+  .AuthenticationCredentials {
+    grid-column: 1/1;
+    justify-content: flex-start;
+  }
+
+  .HomeNavigation{
+    left:0;
+  }
+  .Homenavigateicon{
+    font-size: 27px;
+  }
+
+  
+}
+
+@media only screen and (max-width: 650px) {
+  .SignIn {
+    padding: 10px;
+    gap: 50px;
+  }
+  .SignInButton {
+    border-radius: 6px;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .KaniniLogoContainer {
+    display: flex;
+    width: 70%;
+    justify-content: flex-start;
+    align-items: center;
+  }
+}
+.error-red-text {
+  color: red;
+  font-size: 12px;
+}
+
+.SignInButton.disabled {
+  background-color: grey;
+  cursor: not-allowed;
+}
+
+/* Add this to your CSS */
+.SignUpButton.disabled {
+  background-color: grey;
+  cursor: not-allowed;
+}

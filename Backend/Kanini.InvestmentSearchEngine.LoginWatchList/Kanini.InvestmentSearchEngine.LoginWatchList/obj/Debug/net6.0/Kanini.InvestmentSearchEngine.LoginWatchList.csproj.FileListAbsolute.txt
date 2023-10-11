@@ -1,0 +1,280 @@
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\appsettings.Development.json
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\appsettings.json
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.exe
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.deps.json
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.runtimeconfig.json
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.pdb
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Humanizer.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Serilog.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.csproj.AssemblyReference.cache
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.GeneratedMSBuildEditorConfig.editorconfig
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.AssemblyInfoInputs.cache
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.AssemblyInfo.cs
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.csproj.CoreCompileInputs.cache
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.MvcApplicationPartsAssemblyInfo.cs
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.MvcApplicationPartsAssemblyInfo.cache
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\staticwebassets\msbuild.Kanini.InvestmentSearchEngine.LoginWatchList.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\staticwebassets\msbuild.build.Kanini.InvestmentSearchEngine.LoginWatchList.props
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Kanini.InvestmentSearchEngine.LoginWatchList.props
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Kanini.InvestmentSearchEngine.LoginWatchList.props
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\staticwebassets.pack.json
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\staticwebassets.build.json
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\staticwebassets.development.json
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\scopedcss\bundle\Kanini.InvestmentSearchEngine.LoginWatchList.styles.css
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.csproj.CopyComplete
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\refint\Kanini.InvestmentSearchEngine.LoginWatchList.dll
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.pdb
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.genruntimeconfig.cache
+G:\Kanini-Stock-Management-System\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\ref\Kanini.InvestmentSearchEngine.LoginWatchList.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\appsettings.Development.json
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\appsettings.json
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.exe
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.deps.json
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.runtimeconfig.json
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.pdb
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Humanizer.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Serilog.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.csproj.AssemblyReference.cache
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.GeneratedMSBuildEditorConfig.editorconfig
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.AssemblyInfoInputs.cache
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.AssemblyInfo.cs
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.csproj.CoreCompileInputs.cache
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.MvcApplicationPartsAssemblyInfo.cs
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.MvcApplicationPartsAssemblyInfo.cache
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\staticwebassets\msbuild.Kanini.InvestmentSearchEngine.LoginWatchList.Microsoft.AspNetCore.StaticWebAssets.props
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\staticwebassets\msbuild.build.Kanini.InvestmentSearchEngine.LoginWatchList.props
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Kanini.InvestmentSearchEngine.LoginWatchList.props
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Kanini.InvestmentSearchEngine.LoginWatchList.props
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\staticwebassets.pack.json
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\staticwebassets.build.json
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\staticwebassets.development.json
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\scopedcss\bundle\Kanini.InvestmentSearchEngine.LoginWatchList.styles.css
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.csproj.CopyComplete
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\refint\Kanini.InvestmentSearchEngine.LoginWatchList.dll
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.pdb
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.genruntimeconfig.cache
+G:\KaniniStockproject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\ref\Kanini.InvestmentSearchEngine.LoginWatchList.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\appsettings.json
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.exe
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.deps.json
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.runtimeconfig.json
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.pdb
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Serilog.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.csproj.AssemblyReference.cache
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.AssemblyInfoInputs.cache
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.AssemblyInfo.cs
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.csproj.CoreCompileInputs.cache
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\staticwebassets\msbuild.Kanini.InvestmentSearchEngine.LoginWatchList.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\staticwebassets\msbuild.build.Kanini.InvestmentSearchEngine.LoginWatchList.props
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Kanini.InvestmentSearchEngine.LoginWatchList.props
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Kanini.InvestmentSearchEngine.LoginWatchList.props
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\scopedcss\bundle\Kanini.InvestmentSearchEngine.LoginWatchList.styles.css
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.csproj.CopyComplete
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\refint\Kanini.InvestmentSearchEngine.LoginWatchList.dll
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.pdb
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.genruntimeconfig.cache
+C:\Users\Prem Raahul K\Desktop\MyProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\ref\Kanini.InvestmentSearchEngine.LoginWatchList.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\appsettings.json
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.exe
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.deps.json
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.runtimeconfig.json
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.pdb
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Humanizer.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Serilog.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.csproj.AssemblyReference.cache
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.AssemblyInfoInputs.cache
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.AssemblyInfo.cs
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.csproj.CoreCompileInputs.cache
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\staticwebassets\msbuild.Kanini.InvestmentSearchEngine.LoginWatchList.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\staticwebassets\msbuild.build.Kanini.InvestmentSearchEngine.LoginWatchList.props
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Kanini.InvestmentSearchEngine.LoginWatchList.props
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Kanini.InvestmentSearchEngine.LoginWatchList.props
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\scopedcss\bundle\Kanini.InvestmentSearchEngine.LoginWatchList.styles.css
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.csproj.CopyComplete
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\refint\Kanini.InvestmentSearchEngine.LoginWatchList.dll
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.pdb
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\Kanini.InvestmentSearchEngine.LoginWatchList.genruntimeconfig.cache
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchEngine.LoginWatchList\Kanini.InvestmentSearchEngine.LoginWatchList\obj\Debug\net6.0\ref\Kanini.InvestmentSearchEngine.LoginWatchList.dll

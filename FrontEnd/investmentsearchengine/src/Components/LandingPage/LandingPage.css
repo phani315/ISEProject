@@ -1,0 +1,250 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@1,700&family=Rozha+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Noto+Sans:ital,wght@1,700&family=Rozha+One&display=swap');
+
+
+.LandingPageContainer {
+  width: 100%;
+}
+
+.LandingPageheaders {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(252, 252, 252);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 73px;
+
+}
+
+.LandingPagelogos {
+  margin-left: 20px;
+  width: 150px;
+}
+
+.LandingPagebuttons {
+  margin-right: 20px;
+  width: 72px;
+  display: flex;
+  background: white;
+  border-color: #0078FF;
+  color: #0078FF;
+  border: 1px solid #0078FF;
+  border-radius: 50px;
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.TrendingCompanies img{
+ border-radius :50%;
+height: 85px;
+padding: 10px;
+}
+.pics {
+  width: 10px;
+  height: 12px;
+  margin-top: 2px;
+  margin-right: 4px;
+}
+.LandingPageContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+
+.LandingPagemainText {
+  margin-top: 143px;
+  font-size: 55px;
+  display: flex;
+  font-family: 'Rozha One', serif;
+  justify-content: center;
+  padding: 2px;
+  text-align: center;
+  font-weight: 500;
+  margin-bottom: 0%;
+}
+
+
+.LandingPagesubText {
+  display: flex;
+  padding-left: 50px;
+  line-height: 200%;
+  padding-right: 50px;
+  font-weight: 600;
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+  justify-content: center;
+  font-size: 21px; 
+}
+
+
+.LandingPagewrapper {
+display: flex;
+align-items: center;
+border: 1px solid #888;
+border-radius: 25px;
+padding: 4px 8px;
+position: relative;
+height: 40px;
+background-color: white;
+margin-top: 50px;
+border: none;
+margin-left: 9%;
+width: 82%;
+
+align-items: center;
+justify-content: flex-start;
+box-shadow: 0px 0px 53px 2px rgba(65, 73, 178, 0.2);
+}
+
+
+
+.LandingPageicon {
+  position: absolute;
+  box-sizing: border-box;
+  padding: 5px;
+  min-width: 35px;
+  border-radius: 50%;
+  background-color: #0078FF;
+
+
+}
+.LandingsearchButton {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 8px;
+  display: flex;
+  border-radius: 50%;
+  background-color: blue;
+ 
+}
+.LandingPageinput {
+  border: none;
+  outline: none;
+  padding-left: 12px;
+  font-size: 16px;
+  width: 100%;
+  font-family: 'Inter'; 
+
+}
+
+
+.LandingPagelogo {
+  display: flex;
+  justify-content: center;
+  height: 50px;
+  color: #0078FF;
+}
+
+.LandingPageDisplay {
+  background-image: url(../../Assets/Images/LandingPage/bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height:91vh;
+overflow-y: hidden;
+}
+
+.LandingPagesearchResults
+{
+  position: absolute;
+  top: calc(100% + 4px);
+  left: 0;
+  width: 100%;
+ padding: 10px;
+  background-color: #fff;
+
+  border-top: none;
+  z-index: 1;
+ border-radius: 12px;
+}
+.LandingPagesearchResults p {
+  margin-left: 20px;
+}
+
+
+
+
+
+.searchresultsCompanyNameNSE {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 0;
+  border-bottom: 1px solid #ddd; 
+
+
+}
+
+.LandingPageCompanyName {
+  font-family: 'Inter';
+  font-weight:400;
+  margin: 0;
+}
+
+.landingPageNSE {
+  font-size: 15px;
+  font-family: 'Inter';
+  margin-right:2%;
+  color: #666;
+  background-color: rgba(0, 120, 255, 1);
+  color: white;
+  padding: 4px 6px;
+ border-radius: px;
+}
+.LandingPageDisplay{
+  overflow-y: auto;
+}
+.ScrollableContainer {
+  height: 70vh;
+  overflow-y: auto;
+}
+.LandingPageTrendingText{
+  text-align: center;
+   margin-top: 50px; 
+     font-weight: bold ;
+}
+.TrendingCompanies
+  {
+     padding-left:  10%;
+    padding-right: 10%;
+      text-align: center;
+     position: fixed 
+}
+
+@media screen and (max-width:450px){
+
+  .LandingPagemainText{
+    font-size: 42px;
+  }
+  .LandingPagesubText{
+    font-size: 14px;
+  }
+
+  .LandingPageDisplay {
+    height:93vh;
+  }
+
+  }
+  
+@media screen and (max-width:285px){
+
+  .LandingPagemainText{
+    font-size: 30px;
+  }
+  .LandingPagesubText{
+    font-size: 15px;
+  }
+}
+
+@media screen and (max-width:1500px){
+  .LandingPageDisplay {
+    height:94.9vh;
+  }
+}

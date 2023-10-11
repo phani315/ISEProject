@@ -1,0 +1,32 @@
+.comparepageheader {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 10px;
+  width: 100%;
+  height: 65px;
+}
+#backButton {
+  padding-top: 10px;
+}
+.comparepage-back {
+  display: flex;
+}
+
+#backText {
+  text-decoration: none;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 19px;
+  text-align: center;
+  color: #2f2f2f;
+}
+
+#backArrowImage {
+  display: flex;
+  text-decoration: none;
+  flex-wrap: wrap;
+  flex-direction: column;
+  cursor: pointer;
+}

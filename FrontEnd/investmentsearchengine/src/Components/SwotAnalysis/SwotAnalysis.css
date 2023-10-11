@@ -1,0 +1,60 @@
+.SwotAnalysis {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 0px 4px 13px 0px rgba(0, 0, 0, 0.08);
+}
+.Swot {
+  width: 160px;
+  height: 190px;
+  margin: 10px;
+  border-radius: 10px;
+  background: #eff4ff;
+}
+.SwotDescription {
+  display: flex;
+  padding: 5px 5px 5px 10px;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.SwotCount {
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  background-color: #fdfdfd;
+}
+
+.SwotCountValue {
+  color: #000;
+  font-family: Inter;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+}
+.SwotTitle {
+  color: #2f2f2f;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.SwotInfo {
+  color: #2f2f2f;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}

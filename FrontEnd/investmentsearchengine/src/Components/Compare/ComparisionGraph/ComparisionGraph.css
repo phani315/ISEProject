@@ -1,0 +1,19 @@
+.line-chart-scroll-container {
+    overflow-x: auto;
+  }
+  
+  @media (max-width: 768px) {
+    .scrolling-container {
+      overflow-x: scroll; 
+      white-space: nowrap; 
+    }
+    
+    .scrolling-container .recharts-wrapper {
+      width: auto !important;
+    }
+    
+    .scrolling-container .recharts-y-axis {
+      display: none;
+    }
+  }
+  

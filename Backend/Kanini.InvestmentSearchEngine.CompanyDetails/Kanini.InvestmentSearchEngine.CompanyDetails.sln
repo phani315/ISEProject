@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kanini.InvestmentSearchEngine.CompanyDetails", "Kanini.InvestmentSearchEngine.CompanyDetails\Kanini.InvestmentSearchEngine.CompanyDetails.csproj", "{464849A7-3F48-4F59-B7DF-E6500BAC4807}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{AC1C38A5-88B9-448C-B703-BFA020FB52D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{464849A7-3F48-4F59-B7DF-E6500BAC4807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{464849A7-3F48-4F59-B7DF-E6500BAC4807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{464849A7-3F48-4F59-B7DF-E6500BAC4807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{464849A7-3F48-4F59-B7DF-E6500BAC4807}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC1C38A5-88B9-448C-B703-BFA020FB52D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC1C38A5-88B9-448C-B703-BFA020FB52D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC1C38A5-88B9-448C-B703-BFA020FB52D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC1C38A5-88B9-448C-B703-BFA020FB52D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C4FBF7E-DB32-4678-A5F2-510B4ADFDD9B}
+	EndGlobalSection
+EndGlobal

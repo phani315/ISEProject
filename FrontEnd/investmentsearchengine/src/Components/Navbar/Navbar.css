@@ -1,0 +1,136 @@
+* {
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  margin: 0%;
+  padding: 0%;
+}
+
+.profile ul li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 35px;
+}
+
+.profile ul li ul {
+  position: absolute;
+  top: 75px;
+  right: 50px;
+  transition: top 10s;
+  border-radius: 10px;
+  background: #fff;
+  border-radius: 20px;
+}
+
+.profileItemInfo {
+  display: flex;
+  padding: 0px 20px;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+}
+
+.NavbarProfilIconDivison {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  margin-left: 10px;
+}
+
+.profileItemsDisplay {
+  opacity: 1;
+  visibility: visible;
+}
+
+.profileItemsHidden {
+  opacity: 0;
+  visibility: hidden;
+}
+
+.profile ul ul li {
+  margin: 0px;
+  width: 150px;
+  color: black;
+  font-family: "Inter";
+  font-size: 1em;
+  height: 50px;
+}
+
+.profile ul ul li:hover {
+  background: rgba(229, 238, 248, 0.846);
+}
+
+.NavbarProfileIcon {
+  color: #0078ff;
+  font-size: 1.1rem;
+
+}
+
+.nav {
+  width: 100%;
+  height: 65px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ffffff;
+}
+
+.logo {
+  padding-left: 20px;
+}
+
+.profile {
+  margin-right: 40px;
+}
+
+.kaniniLogo {
+  width: 120px;
+  height:85px;
+}
+
+.profile {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 50px;
+  padding: 5px;
+}
+
+.profileLogo {
+  width: 35px;
+  height: 35px;
+  background-color: #0078ff;
+  padding: 10px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+@media (max-width: 300px) {
+  .logo {
+    padding-left: 0px;
+  }
+
+  .profile {
+    padding-right: 0px;
+  }
+}
+.modal-backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.profileInfo{
+  justify-content: flex-start;
+  padding-left: 10px;
+}

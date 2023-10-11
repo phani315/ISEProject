@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Kanini.InvestmentSearchEngine.SWOTAnalysis.props" />
+</Project>

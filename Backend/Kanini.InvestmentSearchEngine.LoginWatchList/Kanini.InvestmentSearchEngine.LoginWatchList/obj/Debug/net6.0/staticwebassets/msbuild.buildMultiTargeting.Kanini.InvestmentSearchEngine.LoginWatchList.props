@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Kanini.InvestmentSearchEngine.LoginWatchList.props" />
+</Project>

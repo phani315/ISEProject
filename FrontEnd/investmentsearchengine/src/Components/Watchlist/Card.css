@@ -1,0 +1,236 @@
+.cardContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 50px;
+  box-shadow: 0px 4px 13px 0px #00000040;
+}
+#eyeIcon{
+  color: rgba(80, 150, 255, 0.96);
+  font-size: 20px;
+  margin-right: 10px;
+}
+#searchIcon{
+  color: rgba(80, 150, 255, 0.96);
+}
+.cardHeadContainer {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 10px;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.subContainer1 {
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+  font-size: 18px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.searchAdd {
+  margin-left: auto;
+  font-weight: bold;
+  font-size: medium;
+  margin-right: 10px;
+}
+
+.searchInput {
+  display: flex;
+  align-items: center;
+  border: 1px solid #888;
+  border-radius: 25px;
+  padding: 3px 8px;
+  width: 490px;
+  position: relative;
+}
+
+.searchButton {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.searchButton i {
+  color: rgba(80, 150, 255, 0.96);
+}
+
+.searchInputField {
+  border: none;
+  outline: none;
+  padding-left: 4px;
+  font-size: 16px;
+  width: 100%;
+  font-family: 'Inter'; 
+}
+
+.watchlistContainer {
+  width: calc(100% + 20px);
+  overflow: hidden;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+
+.searchDropdown {
+  position: absolute;
+  top: calc(100% + 4px);
+  left: 0;
+  width: 100%;
+  max-height: 200px;
+  overflow-y: auto;
+  background-color: #fff;
+  border: solid #f2eeee;
+  border-top: none;
+  z-index: 1;
+ border-radius: 12px;
+}
+
+.searchResultItem {
+  display: flex; 
+  align-items: center;
+  padding: 10px;
+  cursor: pointer;
+  font-family: 'Inter', sans-serif; 
+}
+
+.companyName {
+  flex-grow: 1; 
+  font-family: Inter;
+  font-size: large;
+  font-style: normal;
+}
+
+.addButton {
+  background-color: #0078ff;
+  color: #fff;
+  border: none;
+  border-radius: 50%; 
+  padding: 8px;
+  cursor: pointer;
+  display: flex; 
+  align-items: center; 
+}
+
+.addButton i {
+  font-size: 12px; 
+  margin: 0;
+}
+
+
+
+.paginationButtons {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.paginationButton {
+  background-color: #fff;
+  color: #0078ff;
+  border: 1px solid #0078ff;
+  border-radius: 4px;
+  padding: 4px 8px;
+  margin-right: 4px;
+  cursor: pointer;
+}
+.searchInput {
+  display: flex; 
+  flex-direction: row; 
+  align-items: center;
+}
+.noCompanyFound {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  cursor: pointer;
+  font-family: Inter;
+  font-size: large;
+  font-style:normal;
+}
+.paginationButton.active {
+  background-color: #0078ff;
+  color: #fff;
+}
+.search-text-and-box{
+  display: flex;
+  flex-direction: row;
+}
+.searchAdd {
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+@media (max-width: 768px) {
+  .searchInput {
+    width: 100%;
+    max-width: 300px;
+  }
+ 
+}
+
+@media (max-width: 956px) {
+.cardHeadContainer {
+  flex-direction: column; 
+  align-items: flex-start;
+}
+.search-text-and-box{
+  display: flex;
+  flex-direction: row;
+}
+.searchInputField{
+  font-size: x-small;
+
+}
+.searchbox{
+  margin-top: 0%;
+}
+
+.subContainer1 {
+  margin-bottom: 10px; 
+}
+
+.searchInput {
+  display: flex; 
+  flex-direction: row; 
+  align-items: center;
+}
+
+
+.searchAdd {
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.searchButton {
+  margin: 0;
+}
+}
+@media (max-device-width: 290px) {
+  .watchlist-text{
+
+    font-size: small;
+  }
+  .cardContainer{
+    width: 93%;
+  }
+  .searchAdd{
+    font-size: small;
+  }
+.searchInput
+{
+  height: 40px;
+}
+
+}

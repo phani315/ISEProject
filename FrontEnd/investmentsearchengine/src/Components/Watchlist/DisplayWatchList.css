@@ -1,0 +1,206 @@
+
+
+.Watchlistheader {
+  height: 73px;
+}
+
+.logo {
+  margin-left: 20px;
+  width: 150px;
+}
+.display {
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  background: linear-gradient(180deg, rgba(0, 136, 206, 0.08) 0%, rgba(217, 217, 217, 0) 100%);
+}
+
+.mainContainer {
+  padding: 20px;
+  width: 100%;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #0078FF; 
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.logo {
+  margin-left: 20px;
+  width: 150px;
+}
+
+.buttoncss {
+  margin-right: 20px;
+  width: 72px;
+  display: flex;
+  background: white;
+  border-color: #0078FF;
+  color: #0078FF;
+  border: 1px solid #0078FF;
+  border-radius: 50px;
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.pic {
+  width: 10px;
+  height: 12px;
+  margin-top: 2px;
+  margin-right: 4px;
+}
+
+.contentContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  max-width: 96.5%;
+  margin-left:2% ;
+  margin-top: -2%;
+
+}
+
+.headerContainer {
+  display: flex;
+  justify-content: flex-start;
+  width: 100%;
+  margin-top: 10px;
+  margin-right: 40px;
+}
+
+.headerLeftContainer {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-left: 20px;
+}
+
+.backContainer {
+  font-size: larger;
+  font-family: Inter;
+  margin-bottom: 10px;
+}
+
+.WatchlistCardComponent{
+  width: 100%;
+}
+
+.headContainer {
+  font-family: Inter;
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: -25px;
+}
+
+.watchlistText {
+  font-family: Inter;
+  font-size: medium;
+  font-weight: 400;
+  margin-top: 1px;
+  margin-left: 5px;
+  margin-bottom: 30px;
+}
+.searchInputField {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 100%;
+}
+
+.searchButton {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #0078FF;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.searchDropdown {
+  background-color: white;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  max-height: 200px;
+  overflow-y: auto;
+  position: absolute;
+  width: 100%;
+  top: 45px; 
+  left: 0;
+  border-radius: 5px;
+  z-index: 1;
+}
+
+.searchResultItem {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+.companyName {
+  cursor: pointer;
+}
+
+.addButton {
+  background-color: #0078FF;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+@media (max-width: 768px) {
+  .headerLeftContainer {
+    align-items: start;
+  }
+  
+  .contentContainer {
+    margin-left: 10px;
+  }
+  
+  .backContainer {
+    font-size: small;
+    font-family: Inter;
+    margin-bottom: 5px;
+  }
+ 
+  .searchButton {
+    padding: 5px 10px;
+    font-size: small;
+  }
+  
+  .searchInputField {
+    padding: 5px 10px;
+    font-size: small;
+  }
+  .searchDropdown {
+    top: 35px; 
+    max-height: 150px;
+  }
+  .searchResultItem {
+  
+    padding: 8px;
+  }
+  .addButton {
+   
+    padding: 4px 8px;
+    font-size: small;
+  }
+}
+@media (max-width: 768px) {
+
+.headContainer{
+  font-size:large;
+}
+.watchlistText{
+  font-size: small;
+}
+}

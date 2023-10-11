@@ -1,0 +1,268 @@
+.Home {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 50px 0px;
+  gap: 50px;
+}
+.HomeBanner {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.HomeBannerLable {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 25px;
+  padding: 8px 20px;
+  background: #527399;
+}
+
+.HomeBannerLableMessage {
+  color: #fff;
+  text-align: center;
+  font-family: Inter;
+  font-size: 0.7rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-transform: uppercase;
+}
+
+.HomeBannerTitleContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.HomeBannerTitle {
+  color: #000;
+  text-align: center;
+  font-family: Inter;
+  font-size: 2.5rem;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.HomeBannerDescription {
+  width: 100%;
+  background-image: url("../../../Assets/Images/Home/HomeBannerBackground.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.bottom-image {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 450px;
+}
+
+.HomeBannerDsectext {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 60%;
+}
+
+.HomeBannerDsectext > p {
+  color: #646464;
+  text-align: center;
+  font-family: Inter;
+  font-size: 0.95rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 25px;
+}
+
+.LoginToKnowButton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+  width: 140px;
+  height: 40px;
+  background: #0078ff;
+  color: #fff;
+  text-align: center;
+  font-family: Inter;
+  font-size: 0.8rem;
+  font-style: normal;
+  border: none;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.CheckCalculatorButton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+  border: 1px solid #0078ff;
+  width: 140px;
+  height: 40px;
+  background: none;
+  color: #0078ff;
+  text-align: center;
+  font-family: Inter;
+  font-size: 0.8rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.LoginCalculatorContainer {
+  display: flex;
+  width: 350px;
+  height: 50px;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.LoginToKnowButton,
+.CheckCalculatorButton {
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+.LoginToKnowButton:hover,
+.CheckCalculatorButton:hover {
+  background-color: #0056b3;
+  color: #fff;
+  cursor: pointer;
+}
+.LoginToKnowButton:active,
+.CheckCalculatorButton:active {
+  transform: scale(0.95);
+}
+
+.DiscoverContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 90%;
+  gap: 40px;
+}
+
+.DiscoverHeader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 650px;
+  text-align: center;
+}
+
+.DiscoverHeader > span {
+  color: #350d3c;
+  font-family: Inter;
+  font-size: 1.5rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.DiscoverHeader > span > span {
+  color: #0078ff;
+}
+
+.DiscoverHeader > p {
+  color: var(--neutral-60, #555f6d);
+  text-align: center;
+  font-family: Inter;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: -0.18px;
+}
+
+.DiscoverDiscriptionContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  width: 100%;
+}
+
+.DiscoverDiscriptionImage {
+  width: 350px;
+}
+
+.DiscoverDiscriptionContext {
+  width: 50%;
+}
+.DiscoverDiscriptionContext > h5 {
+  color: #000;
+  font-family: Inter;
+  font-size: 1.5rem;
+  font-style: normal;
+  font-weight: 650;
+  line-height: normal;
+}
+
+.DiscoverDiscriptionContext > p {
+  color: #393939;
+  font-family: Inter;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 25px;
+}
+
+@media (max-width: 750px) {
+  .DiscoverContainer {
+    width: 100%;
+  }
+  .DiscoverHeader {
+    width: 90%;
+  }
+  .DiscoverDiscriptionContainer {
+    flex-wrap: wrap;
+  }
+  .DiscoverDiscriptionContext {
+    width: 80%;
+  }
+}
+
+@media (max-width: 470px) {
+  .DiscoverDiscriptionImageContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .DiscoverDiscriptionContext {
+    width: 90%;
+  }
+  .DiscoverDiscriptionImage {
+    width: 90%;
+  }
+  .bottom-image {
+    width: 80%;
+  }
+}
+
+@media (max-width: 320px) {
+  .LoginCalculatorContainer {
+    width: 100%;
+    height: 100px;
+    flex-wrap: wrap;
+  }
+}

@@ -1,0 +1,6 @@
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchengine.SWOTAnalysis\TestSWOTService\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchengine.SWOTAnalysis\TestSWOTService\obj\Debug\net6.0\TestSWOTService.csproj.AssemblyReference.cache
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchengine.SWOTAnalysis\TestSWOTService\obj\Debug\net6.0\TestSWOTService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchengine.SWOTAnalysis\TestSWOTService\obj\Debug\net6.0\TestSWOTService.AssemblyInfoInputs.cache
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchengine.SWOTAnalysis\TestSWOTService\obj\Debug\net6.0\TestSWOTService.AssemblyInfo.cs
+C:\Users\phani\Desktop\ISEProject\Backend\Kanini.InvestmentSearchengine.SWOTAnalysis\TestSWOTService\obj\Debug\net6.0\TestSWOTService.csproj.CoreCompileInputs.cache
